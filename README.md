@@ -1,4 +1,4 @@
-# Innovation Network Manager
+# Gestor de redes de Inovación
 
 Sistema de gestión para redes de innovación en formación profesional.
 
